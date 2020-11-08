@@ -1,0 +1,8 @@
+@media screen and (max-width:500px){
+    .container__logo-icono{font-size:3em;   }
+    .container__logo-titulo{font-size:3em;}
+    .main__posted{height: 35vh;}
+    .footer{flex-direction: column;}
+    .footer__contacto{width: 100%; text-align: center;}
+    .footer__derechos{width: 100%;text-align: center;}
+}
