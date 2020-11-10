@@ -140,7 +140,7 @@ body{
 
 .main__procedimientos{
     widows: 100%;
-    height: 150vh;
+    height: auto;
 }
 
 .main__procedimientos-img{
