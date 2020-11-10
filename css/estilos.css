@@ -137,6 +137,11 @@ body{
     background:aquamarine;
     text-align: center;}
 
+.main__procedimientos{
+    widows: 100%;
+    height: 100vh;
+}
+
 .main__procedimientos-img{
     width: 50%;
     height: 50vh;
