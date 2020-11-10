@@ -114,7 +114,8 @@ body{
 
 .main__sintomas{
     width: 100%;
-    height: auto;
+    height: 110vh;
+    margin-bottom: 2%;
 }
 
 .main__sintomas-flex{
@@ -139,7 +140,7 @@ body{
 
 .main__procedimientos{
     widows: 100%;
-    height: auto;
+    height: 120vh;
 }
 
 .main__procedimientos-img{
