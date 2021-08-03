@@ -1,7 +1,7 @@
 Página Informátiva COVID-19
 ---
 
-<img src="img/portada.png">
+<img src="img/portada3.png">
 
 Para el desarrollo del sitio utilizamos lo siguientes recursos:
 ---
@@ -17,10 +17,5 @@ Css3
 4.	Flexbox → [Documentación de Flexbox ](https://www.w3schools.com/css/css3_flexbox.asp)
 5.	Responsive Desing → [Documentación de Resposive Desing](https://www.w3schools.com/css/css_rwd_intro.asp)
 6.	MediaQueries → [Documentación de MediaQueries](https://www.w3schools.com/css/css3_mediaqueries.asp)
-
-Prueba de interfaz - Responsive Desing 
----
-
-**Sitio web: Resizer [Entra aquí](https://material.io/resources/resizer/#url=https%3A%2F%2Fkeysel.github.io%2FCovid19%2F) y prueba tus sitios responsive.**
 
 <img src="img/responsive.png">
